@@ -324,3 +324,16 @@ Invoke-RestMethod -Uri "http://127.0.0.1:8000/api/progress/summary" | ConvertTo-
 
 ## 📝 License
 MIT License - Zero-cost open-source educational project.
+## 📸 Application Screenshots
+
+### Dashboard
+![AI Study Buddy Dashboard](screenshots/dashboard.png)
+
+### AI Study Chat
+![AI Study Chat](screenshots/ai-study-chat.png)
+
+### Quiz Center
+![Quiz Center](screenshots/quiz-center.png)
+
+### Flashcards
+![Flashcards](screenshots/flashcards.png)
